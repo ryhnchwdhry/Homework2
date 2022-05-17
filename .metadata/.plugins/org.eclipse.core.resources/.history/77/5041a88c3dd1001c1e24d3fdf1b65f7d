@@ -1,0 +1,13 @@
+package R;
+
+public class Practice {
+public static void main(String[] args) {
+	System.out.println("I /n am Rayhan Chowdhury and I am 24 years old ");
+	System.out.println("I am Rayhan Chowdhury and I am 24 years old ");
+	System.out.println("I am Rayhan Chowdhury and I am 24 years old ");
+	System.out.println("I am Rayhan Chowdhury and I am 24 years old ");
+	System.out.println("I am Rayhan Chowdhury and I am 24 years old ");
+	System.out.println("I am Rayhan Chowdhury and I am 24 years old ");
+	System.out.println("I am Rayhan Chowdhury and I am 24 years old ");
+}
+}
